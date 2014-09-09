@@ -7,7 +7,7 @@
 //
 
 #import <XCTest/XCTest.h>
-
+#import "utils.h"
 @interface SYNC1Tests : XCTestCase
 
 @end

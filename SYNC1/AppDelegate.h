@@ -7,9 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "MPCHandler.h"
+
+//@class ConnectPageViewController;
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
+//@property (nonatomic, strong) IBOutlet ConnectPageViewController *viewController;
 
 @end
